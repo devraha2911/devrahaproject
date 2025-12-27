@@ -136,16 +136,18 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronLeft, ChevronRight } from "lucide-react";
+import { useNavigate } from "react-router-dom";
 
 const images = [
     "/farmImage.jpg",
-    "/farmaImage1.jpg",
     "/farmImage2.jpg",
 
 ];
 
 const Hero = () => {
     const [index, setIndex] = useState(0);
+
+    const navigate = useNavigate();
 
     // Auto slide
     useEffect(() => {
@@ -213,15 +215,16 @@ const Hero = () => {
                         with 100% organic vermicompost khaad.
                     </motion.p>
 
-                    <motion.a
-                        href="/how-to-use"
+                    <motion.p
+                        
                         initial={{ y: 20, opacity: 0 }}
                         animate={{ y: 0, opacity: 1 }}
                         transition={{ delay: 0.6 }}
+                        onClick={()=>{navigate("/how-to-use")}}
                         className="inline-block mt-8 px-8 py-3 rounded-full bg-green-600 text-white font-semibold hover:bg-green-700 transition shadow-lg"
                     >
                         Learn How to Use
-                    </motion.a>
+                    </motion.p>
                 </div>
             </div>
 

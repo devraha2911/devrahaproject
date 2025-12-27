@@ -128,13 +128,13 @@ const OurProduct = () => {
             <div className="relative bg-white rounded-3xl shadow-2xl p-8 sm:p-10 flex flex-col items-center justify-center w-full max-w-md lg:max-w-full">
               
               {/* Logo */}
-              <div className="text-4xl font-extrabold text-green-700 mb-6">
-                🌱 VermiKhaad
+              <div className="text-xl sm:text-4xl font-extrabold text-green-700 mb-6">
+                <p className=" text-green-600">DEVRAHA <span className="text-orange-600">Bio-Genesis</span></p>
               </div>
 
               {/* Product Image */}
               <img
-                src="/farmaImage1.jpg"
+                src="/image-1.png"
                 alt="Vermicompost organic fertilizer packaging"
                 className="w-full max-w-xs sm:max-w-sm md:max-w-md object-contain"
                 loading="lazy"

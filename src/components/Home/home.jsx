@@ -4,6 +4,7 @@ import WhyVermicompost from "./Why/Why"
 import OurProduct from "./Product/Product"
 import Footer from "./Footer/Footer"
 import Location from "./Location/Location"
+import Reviews from "./Review/Review"
 
 function Home(){
     return(
@@ -12,6 +13,7 @@ function Home(){
          <Hero/>
          <WhyVermicompost/>
          <OurProduct/>
+         <Reviews/>
          <Location/>
          {/* <Footer/> */}
          

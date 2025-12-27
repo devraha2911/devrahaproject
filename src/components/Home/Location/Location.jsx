@@ -1,7 +1,7 @@
 function Location() {
     return (
         <>
-            <h1 className="text-center text-[3rem] font-medium text-green-700 py-5">Find Us Here</h1>
+            <h1 className="text-center text-[2rem] sm:text-[3rem] font-medium text-green-700 py-5">Find Us Here</h1>
             <div className="mt-8 w-full h-64 md:h-80 rounded-xl overflow-hidden shadow-lg">
                 <iframe
                     title="Modinagar"
