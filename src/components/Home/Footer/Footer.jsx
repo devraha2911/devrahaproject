@@ -73,7 +73,7 @@ const Footer = () => {
               href="mailto:info@vermikhaad.com"
               className="hover:text-green-600 transition-colors"
             >
-              info@vermikhaad.com
+              devrahabiogenesis.info@gmail.com
             </a>
           </div>
 
@@ -84,7 +84,7 @@ const Footer = () => {
               href="tel:+911234567890"
               className="hover:text-green-600 transition-colors"
             >
-              +91 12345 67890
+              +91 9897869299
             </a>
           </div>
 

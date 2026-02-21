@@ -224,7 +224,7 @@ const Contact = () => {
                   href="mailto:info@vermikhaad.com"
                   className="text-gray-700 hover:text-green-600"
                 >
-                  sharmanishant08751@gmail.com
+                  devrahabiogenesis.info@gmail.com
                 </a>
               </div>
             </div>
@@ -240,7 +240,7 @@ const Contact = () => {
                   href="tel:+911234567890"
                   className="text-gray-700 hover:text-green-600"
                 >
-                  +91 9410677716
+                  +91 9897869299
                 </a>
               </div>
             </div>
@@ -254,8 +254,8 @@ const Contact = () => {
                 <p className="font-semibold text-green-800">Address</p>
                 <p className="text-gray-700 leading-relaxed">
                   VermiKhaad Organic Farms,<br />
-                  Village Greenfield,<br />
-                  District XYZ, India – 123456
+                  Village Tisang,<br />
+                  District Shamli, India – 251314
                 </p>
               </div>
             </div>
@@ -286,7 +286,7 @@ const Contact = () => {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-10">
 
               <a
-                href="tel:+911234567890"
+                href="tel:+919897869299"
                 className="bg-white rounded-2xl shadow-lg p-6 text-center hover:-translate-y-1 transition"
               >
                 <Phone className="mx-auto text-green-600 mb-3" />
@@ -294,7 +294,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="https://wa.me/911234567890?text=Hello%20VermiKhaad"
+                href="https://wa.me/9897869299?text=Hello%20VermiKhaad"
                 target="_blank"
                 className="bg-white rounded-2xl shadow-lg p-6 text-center hover:-translate-y-1 transition"
               >
@@ -305,7 +305,7 @@ const Contact = () => {
               </a>
 
               <a
-                href="mailto:info@vermikhaad.com"
+                href="mailto:devrahabiogenesis.info@gmail.com"
                 className="bg-white rounded-2xl shadow-lg p-6 text-center hover:-translate-y-1 transition"
               >
                 <Mail className="mx-auto text-green-600 mb-3" />
