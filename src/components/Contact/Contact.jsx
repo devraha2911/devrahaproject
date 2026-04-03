@@ -286,7 +286,7 @@ const Contact = () => {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-10">
 
               <a
-                href="tel:+919897869299"
+                href="tel:+9184487 27617"
                 className="bg-white rounded-2xl shadow-lg p-6 text-center hover:-translate-y-1 transition"
               >
                 <Phone className="mx-auto text-green-600 mb-3" />
@@ -362,5 +362,8 @@ const Contact = () => {
 };
 
 export default Contact;
+
+
+// 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
 
 

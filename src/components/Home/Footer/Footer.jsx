@@ -84,7 +84,7 @@ const Footer = () => {
               href="tel:+911234567890"
               className="hover:text-green-600 transition-colors"
             >
-              +91 9897869299
+              +91 84487 27617
             </a>
           </div>
 
@@ -113,7 +113,7 @@ const Footer = () => {
               </svg>
             </a> */}
 
-            <a href="https://wa.me/9410677716?text=Hello%20VermiKhaad" target="_blank"><i className="fa-brands fa-whatsapp text-[1.5em] hover:scale-110"></i></a>
+            <a href="https://wa.me/9897869299?text=Hello%20VermiKhaad" target="_blank"><i className="fa-brands fa-whatsapp text-[1.5em] hover:scale-110"></i></a>
 
             <a
               href="https://instagram.com/"
