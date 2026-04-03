@@ -240,7 +240,7 @@ const Contact = () => {
                   href="tel:+911234567890"
                   className="text-gray-700 hover:text-green-600"
                 >
-                  +91 9897869299
+                  +91 84487 27617 (Abhishek Choudhary)
                 </a>
               </div>
             </div>
