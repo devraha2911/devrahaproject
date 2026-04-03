@@ -84,7 +84,7 @@ const Footer = () => {
               href="tel:+911234567890"
               className="hover:text-green-600 transition-colors"
             >
-              +91 84487 27617
+              +91 84487 27617 (Abhishek Choudhary)
             </a>
           </div>
 
